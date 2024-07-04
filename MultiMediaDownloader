@@ -8,7 +8,7 @@
       "storiesIG":"https://igram.world/api/ig/story?url=",
       "reelsIG":"https://snapinsta.io/api/ajaxSearch",
       "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
-      "threads":"https://api.threadsphotodownloader.con/v2/mediaembed?url=",
+      "threads":"https://api.threadsphotodownloader.com/v2/mediaembed?url=",
       "tiktok1":"https://ttdownloader.com/",
       "tiktok2":"https://ttdownloader.com/search/",
       "X":"https://savetwitter.net/api/ajaxSearch"
