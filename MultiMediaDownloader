@@ -8,23 +8,25 @@
       "storiesIG":"https://igram.world/api/ig/story?url=",
       "reelsIG":"https://snapinsta.io/api/ajaxSearch",
       "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
-      "threads":"https://api.threadsphotodownloader.com/v2/mediaembed?url=",
+      "threads":"https://api.threadsphotodownloader.con/v2/mediaembed?url=",
       "tiktok1":"https://ttdownloader.com/",
       "tiktok2":"https://ttdownloader.com/search/",
       "X":"https://savetwitter.net/api/ajaxSearch"
   },
   
   "Nt": {
-       "Done":"Your media saved successfully!\nCreated by Pola Shokri.",
+       "Done":"Your content was successfully downloaded!\nCreated by Pola Shokri.",
        "error1":"Oops, it seems the URL you provided is not correct. Check it and try again.\nCreated by Pola Shokri.",
-       "error2":"Don't worry, there seems to be an error with the API, make sure you have the latest version of FullDownload.\nCreated by Pola Shokri."
+       "error2":"Don't worry, there seems to be an error with the API, make sure you have the latest version of FullDownload.\nCreated by Pola Shokri.",
        "private":"The content is PRIVATE. Sorry, until now I cannot download this type of content, due to security and copyright issues.\nCreated by Pola Shokri."
   }, 
   
-  "Yt": {
-      "youtube":"https://9convert.com/api/ajaxSearch/index",
-      "converter":"https://9convert.com/api/ajaxConvert/convert"
-
+ 
+  "Yout": {
+      "youtube":"https://9convert.com/api/ajaxSearch",
+      "converter":"https://backend.svcenter.xyz/api/convert-by-45fc4be8916916ba3b8d61dd6e0d6994",
+      "process":"/api/json/convert",
+      "x_r":"de0cfuirtgf67a"
   }
   
- }
+}
