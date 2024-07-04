@@ -11,20 +11,20 @@
       "threads":"https://api.threadsphotodownloader.com/v2/mediaembed?url=",
       "tiktok1":"https://ttdownloader.com/",
       "tiktok2":"https://ttdownloader.com/search/",
-      "X":"https://savetwitter.net/api/ajaxSearch",
+      "X":"https://savetwitter.net/api/ajaxSearch"
   },
   
   "Nt": {
        "Done":"Your media saved successfully!\nCreated by Pola Shokri.",
        "error1":"Oops, it seems the URL you provided is not correct. Check it and try again.\nCreated by Pola Shokri.",
-       "error2":"Don't worry, there seems to be an error with the API, make sure you have the latest version of FullDownload.\nCreated by Pola Shokri.",
+       "error2":"Don't worry, there seems to be an error with the API, make sure you have the latest version of FullDownload.\nCreated by Pola Shokri."
        "private":"The content is PRIVATE. Sorry, until now I cannot download this type of content, due to security and copyright issues.\nCreated by Pola Shokri."
   }, 
   
   "Yt": {
       "youtube":"https://9convert.com/api/ajaxSearch/index",
-      "converter":"https://9convert.com/api/ajaxConvert/convert",
+      "converter":"https://9convert.com/api/ajaxConvert/convert"
 
-}
+  }
   
-}
+ }
