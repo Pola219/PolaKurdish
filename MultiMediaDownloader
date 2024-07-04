@@ -23,7 +23,7 @@
   
   "Yt": {
       "youtube":"https://9convert.com/api/ajaxSearch/index",
-      "converter":"https://www.yt1s.com/api/ajaxConvert/convert",
+      "converter":"https://9convert.com/api/ajaxConvert/convert",
 
 }
   
