@@ -1,1 +1,39 @@
-
+{
+  "MAIN": {
+      "facebook1":"https://yt5s.io/api/ajaxSearch",
+      "facebook2":"https://sc.link/v2/api/url",
+      "facebook3":"https://www.twi.kz/api/v1/shorten",
+      "ig":"https://fastdl.app/api/convert",
+      "Storig":"https://fastdl.app/api/ig/story?url=",
+      "storiesIG":"https://igram.world/api/ig/story?url=",
+      "reelsIG":"https://snapinsta.io/api/ajaxSearch",
+      "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
+      "threads":"https://thdownloader.net/download?v=",
+      "threads1":"https://api.threadsdownloader.io/load?url=",
+      "tiktok":"https://ssstik.io/abc?url=dl",
+      "X":"https://savetwitter.net/api/ajaxSearch"
+  },
+  
+  "Nt": {
+       "Done":"Your content was successfully downloaded!\nCreated by Pola KurdBoy.",
+       "error1":"Oops, it seems the URL you provided is not correct. Check it and try again.\nCreated by Pola KurdBoy.",
+       "error2":"Don't worry, there seems to be an error with the API, make sure you have the latest version of Phantom.\nCreated by Pola KurdBoy.",
+       "private":"The content is PRIVATE. Sorry, until now I cannot download this type of content, due to security and copyright issues.\nCreated by Pola KurdBoy."
+  }, 
+  
+  "Updates":{
+       "intro":"Hey! There's a new update, it's great!\n\nDETAILS:\n\n • Corrects errors with the Instagram app.\n\nIMPORTANT!\n\n • As in all In previous versions, the content will be saved in the \"Photos\" app, except for high definition audio and videos greater than 1080p60 HDR, which will be saved in the \"Files\" app, within the \"iPhone\" folder.\ n\nDo you want to download it?",
+       "value":"true",
+       "url":"shortcuts://shortcuts/1e360a9f72b94bdc97e3b6bc372e15e2",
+       "version":"1.0",
+       "key":"9a77790836c8b7284b937d95b43bfe57895ea6c3"
+  }, 
+ 
+  "You": {
+      "youtube":"https://savetube.app/api/ajaxSearch",
+      "converter":"https://backend.svcenter.xyz/api/convert-by-45fc4be8916916ba3b8d61dd6e0d6994",
+      "process":"/api/json/convert",
+      "x_r":"de0cfuirtgf67a"
+  }
+  
+}
