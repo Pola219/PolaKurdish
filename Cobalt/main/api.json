@@ -1,15 +1,14 @@
 {
-   “API”: “{
-   “allowed”: {
-        “vCodec”: “["h264"]”,
-        “vQuality”: “["max", "4320", "2160", "1440", "1080", "720", "480", "360", "240", "144"]”,
-        “aFormat”: “["best", "mp3", "ogg", "wav", "opus"]”,
-        “filenamePattern”: “["classic", "pretty", "basic", "nerdy"]”
+“API”: “{
+“allowed”: {
+“vCodec”: “["h264"]”, “vQuality”: “["max", "4320", "2160", "1440", "1080", "720", "480", "360", "240", "144"]”, 
+“aFormat”: “["best", "mp3", "ogg", "wav", "opus"]”,
+“filenamePattern”: “["classic", "pretty", "basic", "nerdy"]”
     },
-        “booleanOnly”: “[
-        "isAudioOnly",
-        "twitterGif",
-        "tiktokH265”
+      “booleanOnly”: “[
+      "isAudioOnly",
+      "twitterGif",
+      "tiktokH265”
     ]
 }
 
