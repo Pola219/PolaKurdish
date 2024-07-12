@@ -3,7 +3,7 @@
       "facebook1":"https://yt5s.io/api/ajaxSearch",
       "facebook2":"https://sc.link/v2/api/url",
       "facebook3":"https://www.twi.kz/api/v1/shorten",
-      "ig":"https://fastdl.app/api/convert",
+      "insta":"https://fastdl.app/api/convert",
       "Storig":"https://fastdl.app/api/ig/story?url=",
       "storiesIG":"https://igram.world/api/ig/story?url=",
       "reelsIG":"https://snapinsta.io/api/ajaxSearch",
@@ -14,7 +14,7 @@
       "X":"https://savetwitter.net/api/ajaxSearch"
   },
   
-  "Nt": {
+  "Notifi": {
        "Done":"Your content was successfully downloaded!\nMade by Pola Shokri.",
        "error1":"Oops, it seems the URL you provided is not correct. Check it and try again.\nCreated by Pola Shokri.",
        "error2":"There seems to be an error has occurred.\nMade by Pola Shokri.",
@@ -22,9 +22,9 @@
   }, 
   
  
-  "Yout": {
-      "youtube":"https://savetube.app/api/ajaxSearch",
-      "converter":"https://backend.svcenter.xyz/api/convert-by-45fc4be8916916ba3b8d61dd6e0d6994",
+  "Youtube": {
+      "ytsurl":"https://savetube.app/api/ajaxSearch",
+      "ytcurl":"https://backend.svcenter.xyz/api/convert-by-45fc4be8916916ba3b8d61dd6e0d6994",
       "process":"/api/json/convert",
       "x_r":"de0cfuirtgf67a"
   }
