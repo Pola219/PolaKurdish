@@ -1,1 +1,33 @@
 
+{
+  "URLs": {
+      "facebook1":"https://yt5s.io/api/ajaxSearch",
+      "facebook2":"https://sc.link/v2/api/url",
+      "facebook3":"https://www.twi.kz/api/v1/shorten",
+      "ig":"https://fastdl.app/api/convert",
+      "Storig":"https://fastdl.app/api/ig/story?url=",
+      "storiesIG":"https://igram.world/api/ig/story?url=",
+      "reelsIG":"https://snapinsta.io/api/ajaxSearch",
+      "pinterest":"https://anydownloader.com/wp-json/aio-dl/video-data/",
+      "threads":"https://thdownloader.net/download?v=",
+      "threads1":"https://api.threadsdownloader.io/load?url=",
+      "tiktok":"https://ssstik.io/abc?url=dl",
+      "X":"https://savetwitter.net/api/ajaxSearch"
+  },
+  
+  "Nt": {
+       "Done":"Your content was successfully downloaded!\nCreated by Pola KurdBoy.",
+       "error1":"Oops, it seems the URL you provided is not correct. Check it and try again.\nCreated by Pola KurdBoy.",
+       "error2":"Don't worry, there seems to be an error with the API, make sure you have the latest version of KurdMediaDL.\nCreated by Pola KurdBoy.",
+       "private":"The content is PRIVATE. Sorry, until now I cannot download this type of content, due to security and copyright issues.\nCreated by Pola KurdBoy."
+ 
+  }, 
+ 
+  "You": {
+      "youtube":"https://savetube.app/api/ajaxSearch",
+      "converter":"https://backend.svcenter.xyz/api/convert-by-45fc4be8916916ba3b8d61dd6e0d6994",
+      "process":"/api/json/convert",
+      "x_r":"de0cfuirtgf67a"
+  }
+  
+}
