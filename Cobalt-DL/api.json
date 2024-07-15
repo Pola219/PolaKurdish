@@ -1,10 +1,15 @@
 {
+  "API":",
+  
   "url": "URL Encoded Text",
   "vQualitty": "720p",
   "aFormat": "mp3",
   "filenamePattern": "pretty"
 }
-  "messages":"{
+
+{
+  "messages": ",
+  
        "noteDone": "Your content was downloaded successfully!",
        "errorA": "Oops, it looks like the URL you provided is not correct. Please check it and try again.",
        "errorB": "Don't worry, there seems to be an error with the API, make sure you have the latest version of FullDownload.",
