@@ -1,5 +1,5 @@
 {
-  "API":",
+  "API":
   
   "url": "URL Encoded Text",
   "vQualitty": "720p",
@@ -8,7 +8,7 @@
 }
 
 {
-  "messages": ",
+  "messages": 
   
        "noteDone": "Your content was downloaded successfully!",
        "errorA": "Oops, it looks like the URL you provided is not correct. Please check it and try again.",
