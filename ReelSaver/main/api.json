@@ -1,6 +1,7 @@
 {
   "API": {
-      "reelSave":"https://www.reelssave.com/wp-json/aio-dl/video-data/",
+      "reelSave1":"https://www.reelssave.com/",
+      "reelSave2":"https://www.reelssave.com/wp-json/aio-dl/video-data/",
   },
   
   "Nt": {
