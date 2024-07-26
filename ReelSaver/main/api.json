@@ -1,5 +1,5 @@
 {
-  "URLs": {
+  "API": {
       "reelSave":"https://www.reelssave.com/wp-json/aio-dl/video-data/",
   },
   
